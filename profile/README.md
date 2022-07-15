@@ -19,10 +19,9 @@
 [link-website]: https://docs.hermez.io/
 
 
-- `polygon zkEVM` is a ZK implementation of the Ethereum Virtual Machine (EVM).
-- We aim to provide a decentralized Ethereum Layer 2 scalability solution utilising cryptographic zero-knowledge technology to provide validation and fast finality of off-chain transaction computations.
-- Team has been working on the development of `polygon zkEVM` as a zero-knowledge Ethereum Virtual Machine (zkEVM), a virtual machine that executes Ethereum transactions in a transparent way, including smart contracts with zero-knowledge-proof validations.
-- The approach taken requires the recreation of all EVM opcodes for transparent deployment of existing Ethereum smart contracts. For this purpose a new set of technologies and tools are being created and engineered and are contained in this organization.
+- `polygon zkEVM` is a new zk-rollup that provides Ethereum Virtual Machine (EVM) equivalence (opcode-level compatibility) for a transparent user experience and existing Ethereum ecosystem and tooling compatibility.
+- It consists on a decentralized Ethereum Layer 2 scalability solution utilising cryptographic zero-knowledge technology to provide validation and fast finality of off-chain transaction computations.
+- This approach required the recreation of all EVM opcodes for transparent deployment and transactions with existing Ethereum smart contracts. For this purpose a new set of tools and technologies were created and engineered and are contained in this organization.
 
 ## Ethereum compatibility
 - The following table aims to summarize the zkEVM compatibility with the [oficial Ethereum test vectors](https://github.com/ethereum/tests)
