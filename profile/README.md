@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Polygon_zkevm.png" width="600"/>
+<img src="https://github.com/0xPolygonHermez/.github/blob/master/profile/Polygon_zkevm.png" width="600"/>
 </div>
 <br />
 <div align="center">
