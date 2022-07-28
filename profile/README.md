@@ -24,7 +24,7 @@
 - This approach required the recreation of all EVM opcodes for transparent deployment and transactions with existing Ethereum smart contracts. For this purpose a new set of tools and technologies were created and engineered and are contained in this organization.
 
 ## Ethereum compatibility
-- The following table aims to summarize the zkEVM compatibility with the [oficial Ethereum test vectors](https://github.com/ethereum/tests)
+- The following table aims to summarize the zkEVM compatibility with the [official Ethereum test vectors](https://github.com/ethereum/tests)
 - The test vectors targeted are located [here](https://github.com/ethereum/tests/tree/develop/BlockchainTests/GeneralStateTests)
 - Detailed information could be found in the [zkevm-testvectors repository](https://github.com/0xPolygonHermez/zkevm-testvectors)
 
