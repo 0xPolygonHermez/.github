@@ -16,7 +16,7 @@
 
 [link-twitter]: https://twitter.com/0xpolygonhermez
 [link-telegram]: https://t.me/polygonhermezchat
-[link-website]: https://docs.hermez.io/
+[link-website]: https://wiki.polygon.technology/docs/zkEVM/introduction
 
 
 - `polygon zkEVM` is a new zk-rollup that provides Ethereum Virtual Machine (EVM) equivalence (opcode-level compatibility) for a transparent user experience and existing Ethereum ecosystem and tooling compatibility.
