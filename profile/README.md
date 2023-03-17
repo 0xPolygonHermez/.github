@@ -10,12 +10,10 @@
 
 </div>
 
-[ico-twitter]: https://img.shields.io/twitter/url?label=polygonZkEVM&style=social&url=https%3A%2F%2Ftwitter.com%2F0xpolygonhermez
-[ico-telegram]: https://img.shields.io/badge/telegram-telegram-black
+[ico-twitter]: https://img.shields.io/twitter/url?label=polygonZkEVM&style=social&url=https%3A%2F%2Ftwitter.com%2F0xPolygonZK
 [ico-website]: https://img.shields.io/static/v1?label=docs&message=polygonZkEVM&color=7B3FE4
 
-[link-twitter]: https://twitter.com/0xpolygonhermez
-[link-telegram]: https://t.me/polygonhermezchat
+[link-twitter]: https://twitter.com/0xPolygonZK
 [link-website]: https://wiki.polygon.technology/docs/zkEVM/introduction
 
 
