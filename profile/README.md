@@ -5,7 +5,6 @@
 <div align="center">
 
 [![Chat on Twitter][ico-twitter]][link-twitter]
-[![Chat on Telegram][ico-telegram]][link-telegram]
 [![Website][ico-website]][link-website]
 
 </div>
