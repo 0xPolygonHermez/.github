@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://github.com/0xPolygonHermez/.github/blob/master/profile/Polygon_zkevm.png" width="600"/>
-</div>
-<br />
-<div align="center">
+![Polygon zkEVM logo dark](https://user-images.githubusercontent.com/18598517/235930293-276ce4fb-d0d8-44eb-82f4-b4fab487d89f.png)
 
 [![Chat on Twitter][ico-twitter]][link-twitter]
 [![Website][ico-website]][link-website]
