@@ -20,6 +20,12 @@
 - It consists on a decentralized Ethereum Layer 2 scalability solution utilising cryptographic zero-knowledge technology to provide validation and fast finality of off-chain transaction computations.
 - This approach required the recreation of all EVM opcodes for transparent deployment and transactions with existing Ethereum smart contracts. For this purpose a new set of tools and technologies were created and engineered and are contained in this organization.
 
+## Testnet/Mainnet versions
+| Network | Node | Prover/Executor | Bridge service |
+|:--------|:-----|:----------------|:---------------|
+|mainnet  |[v0.0.7](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.0.7)|c231382|v0.0.5-RC2|
+|testnet  |[v0.1.0](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.1.0)|[v1.1.3-fork.4](https://github.com/0xPolygonHermez/zkevm-prover/releases/tag/v1.1.3-fork.4)|[v0.1.0](https://github.com/0xPolygonHermez/zkevm-bridge-service/releases/tag/v0.1.0)|
+
 ## Ethereum compatibility
 - The following table aims to summarize the zkEVM compatibility with the [official Ethereum test vectors](https://github.com/ethereum/tests)
 - The test vectors targeted are located [here](https://github.com/ethereum/tests/tree/develop/BlockchainTests/GeneralStateTests)
