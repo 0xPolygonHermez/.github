@@ -24,7 +24,7 @@
 | Network | Node | Prover/Executor | Bridge service |
 |:--------|:-----|:----------------|:---------------|
 |mainnet  |[v0.0.7](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.0.7)|c231382|v0.0.5-RC2|
-|testnet  |[v0.1.0](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.1.0)|[v1.1.3-fork.4](https://github.com/0xPolygonHermez/zkevm-prover/releases/tag/v1.1.3-fork.4)|[v0.1.0](https://github.com/0xPolygonHermez/zkevm-bridge-service/releases/tag/v0.1.0)|
+|testnet  |[v0.1.1](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.1.1)|[v1.1.3-fork.4](https://github.com/0xPolygonHermez/zkevm-prover/releases/tag/v1.1.3-fork.4)|[v0.1.0](https://github.com/0xPolygonHermez/zkevm-bridge-service/releases/tag/v0.1.0)|
 
 ## Ethereum compatibility
 - The following table aims to summarize the zkEVM compatibility with the [official Ethereum test vectors](https://github.com/ethereum/tests)
