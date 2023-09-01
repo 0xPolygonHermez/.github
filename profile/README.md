@@ -21,10 +21,11 @@
 - This approach required the recreation of all EVM opcodes for transparent deployment and transactions with existing Ethereum smart contracts. For this purpose a new set of tools and technologies were created and engineered and are contained in this organization.
 
 ## Testnet/Mainnet versions
-| Network | Node | Prover/Executor | Bridge service |
-|:--------|:-----|:----------------|:---------------|
-|mainnet  |[v0.2.5](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.2.5)|[v2.1.2](https://github.com/0xPolygonHermez/zkevm-prover/releases/tag/v2.1.2)|[v0.2.0](https://github.com/0xPolygonHermez/zkevm-bridge-service/releases/tag/v0.2.0)|
-|testnet  |[v0.3.0](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.3.0)|[v2.2.0](https://github.com/0xPolygonHermez/zkevm-prover/releases/tag/v2.2.0)|[v0.2.0](https://github.com/0xPolygonHermez/zkevm-bridge-service/releases/tag/v0.2.0)|
+The following table shows the recommended versions to use for permissionless nodes:
+| Network | Node | Prover/Executor |
+|:--------|:-----|:----------------|
+|mainnet  |[v0.2.5](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.2.5)|[v2.1.2](https://github.com/0xPolygonHermez/zkevm-prover/releases/tag/v2.1.2)|
+|testnet  |[v0.3.0](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.3.0)|[v2.2.0](https://github.com/0xPolygonHermez/zkevm-prover/releases/tag/v2.2.0)|
 
 ## Ethereum compatibility
 - The following table aims to summarize the zkEVM compatibility with the [official Ethereum test vectors](https://github.com/ethereum/tests)
