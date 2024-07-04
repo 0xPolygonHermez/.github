@@ -24,7 +24,7 @@
 The following table shows the recommended versions to use for permissionless nodes:
 | Network | Node | Prover/Executor |
 |:--------|:-----|:----------------|
-|mainnet  |[v0.6.7](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.6.7)|[v6.0.2](https://github.com/0xPolygonHermez/zkevm-prover/releases/tag/v6.0.2)|
+|mainnet  |[v0.7.0](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.7.0)|[v6.0.2](https://github.com/0xPolygonHermez/zkevm-prover/releases/tag/v6.0.2)|
 |cardona  |[v0.7.0](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.7.0)|[v6.0.2](https://github.com/0xPolygonHermez/zkevm-prover/releases/tag/v6.0.2)|
 
 ## Ethereum compatibility
