@@ -20,7 +20,7 @@
 - It consists on a decentralized Ethereum Layer 2 scalability solution utilising cryptographic zero-knowledge technology to provide validation and fast finality of off-chain transaction computations.
 - This approach required the recreation of all EVM opcodes for transparent deployment and transactions with existing Ethereum smart contracts. For this purpose a new set of tools and technologies were created and engineered and are contained in this organization.
 
-## Testnet/Mainnet versions
+## Mainnet/Testnet versions
 The following table shows the recommended versions to use for permissionless nodes:
 | Network | Node | Prover/Executor |
 |:--------|:-----|:----------------|
