@@ -12,7 +12,7 @@
 [ico-twitter]: https://img.shields.io/twitter/url?label=polygonZkEVM&style=social&url=https%3A%2F%2Ftwitter.com%2F0xPolygon
 [ico-website]: https://img.shields.io/static/v1?label=docs&message=polygonZkEVM&color=7B3FE4
 
-[link-twitter]: https://twitter.com/0xPolygon
+[link-twitter]: https://x.com/0xPolygon
 [link-website]: https://wiki.polygon.technology/docs/zkEVM/introduction
 
 
