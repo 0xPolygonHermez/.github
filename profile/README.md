@@ -22,10 +22,10 @@
 
 ## Testnet/Mainnet versions
 The following table shows the recommended versions to use for permissionless nodes:
-| Network | Node | Prover/Executor |
-|:--------|:-----|:----------------|
-|mainnet  |[v0.7.3](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.7.3)|[v6.0.2](https://github.com/0xPolygonHermez/zkevm-prover/releases/tag/v6.0.2)|
-|cardona  |[v0.7.3](https://github.com/0xPolygonHermez/zkevm-node/releases/tag/v0.7.3)|[v6.0.2](https://github.com/0xPolygonHermez/zkevm-prover/releases/tag/v6.0.2)|
+| Network | Erigon | Prover/Executor | Node (deprecated) |
+|:--------|:-------|:----------------|:-----|
+|mainnet  |[v2.0.1](https://hub.docker.com/layers/hermeznetwork/cdk-erigon/v2.0.1/images/sha256-bc312131e73e2e0bda084be7f91f0dd0e3010642d3ba6b1b5e7a9f3e11b981a9?context=explore)|[v7.0.4-fork.11](https://hub.docker.com/layers/hermeznetwork/zkevm-prover/v7.0.4-fork.11/images/sha256-be335e03972a67343d11261f14b7e68d337046ae6632b72deae00b3c95f9d0bd?context=explore)|[v0.7.0-fork11](https://hub.docker.com/layers/hermeznetwork/zkevm-node/v0.7.0-fork11/images/sha256-78dfd93df8b94a7103cdaffbb37a981b073e1a4c247a3a464e4e519a452d471b?context=explore)|
+|cardona  |[v2.0.1](https://hub.docker.com/layers/hermeznetwork/cdk-erigon/v2.0.1/images/sha256-bc312131e73e2e0bda084be7f91f0dd0e3010642d3ba6b1b5e7a9f3e11b981a9?context=explore)|[v7.0.4-fork.11](https://hub.docker.com/layers/hermeznetwork/zkevm-prover/v7.0.4-fork.11/images/sha256-be335e03972a67343d11261f14b7e68d337046ae6632b72deae00b3c95f9d0bd?context=explore)|[v0.7.0-fork11](https://hub.docker.com/layers/hermeznetwork/zkevm-node/v0.7.0-fork11/images/sha256-78dfd93df8b94a7103cdaffbb37a981b073e1a4c247a3a464e4e519a452d471b?context=explore)|
 
 ## Ethereum compatibility
 - The following table aims to summarize the zkEVM compatibility with the [official Ethereum test vectors](https://github.com/ethereum/tests)
