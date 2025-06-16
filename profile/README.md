@@ -1,5 +1,5 @@
 
-![Polygon zkEVM logo dark](https://user-images.githubusercontent.com/18598517/235932702-bc47eae5-d672-4dd9-9da2-8ea8f51a93f3.png)
+![Zisk logo](ZisK.png)
 </div>
 <br />
 <div align="center">
