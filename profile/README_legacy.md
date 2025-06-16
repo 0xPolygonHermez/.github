@@ -103,6 +103,3 @@ The following table shows the recommended versions to use for permissionless nod
 |           stZeroKnowledge2           |  519  |         0          |  0  |   519   | 100.00 |
 |           stZeroKnowledge            |  800  |         0          |  0  |   800   | 100.00 |
 |               VMTests                |  651  |        578         | 14  |   59    | 97.64  |
-
-
-[Legacy Polygon zkEVM] (README_legacy.md)
