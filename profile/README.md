@@ -13,7 +13,9 @@ We invite all developers and projects to test, contribute to, and use Zisk. Our 
 To get started, check out the Getting Started Documentation.
 
 Explore the main repository: https://github.com/0xPolygonHermez/zisk
+
 Join us on Discord: https://discord.gg/S4hcd8gq
+
 Follow us on X: https://x.com/ziskvm
 
 [For the legacy Polygon zkEVM page you can go here](README_legacy.md)
