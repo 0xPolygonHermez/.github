@@ -1,5 +1,4 @@
-
-![Zisk logo](ZisK.png)
+![Zisk logo](ZisK_title.png)
 </div>
 <br />
 <div align="center">
