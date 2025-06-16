@@ -4,9 +4,12 @@
 <div align="center">
 
 [![Chat on Twitter][ico-twitter]][link-twitter]
-[![Website][ico-website]][link-discord]
+[![Website][ico-discord]][link-discord]
 
 </div>
+
+[ico-twitter]: https://img.shields.io/twitter/url?label=polygonZkEVM&style=social&url=https%3A%2F%2Ftwitter.com%2F0xPolygon
+[ico-discord]: https://discord.com/api/guilds/336642139381301249/embed.png
 
 [link-twitter]: https://twitter.com/0xPolygon
 [link-discord]: https://discord.gg/S4hcd8gq
