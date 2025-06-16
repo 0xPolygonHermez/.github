@@ -2,7 +2,7 @@
 </div>
 <br />
 
-**Zisk** is an open-source zero-knowledge proving system featuring a zkVM that enables verifiable execution of Rust programs.  
+**Zisk** is an open-source zero-knowledge proving system featuring a zkVM that enables verifiable execution of programs written in high-level languages like Rust.
 
 Initially incubated by **Polygon Labs** from May 2024 to June 2025, Zisk became an independent project on **June 13, 2025**, with its intellectual property and core team transferred to **SilentSig Switzerland GmbH**, a company fully owned by **Jordi Baylina (@jbaylina)**.
 
