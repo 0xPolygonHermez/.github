@@ -1,4 +1,4 @@
-![Zisk logo](ZisK_title.png)
+![Zisk logo](ZisK_top.png)
 </div>
 <br />
 <div align="center">
@@ -103,5 +103,4 @@ The following table shows the recommended versions to use for permissionless nod
 |           stZeroKnowledge            |  800  |         0          |  0  |   800   | 100.00 |
 |               VMTests                |  651  |        578         | 14  |   59    | 97.64  |
 
-
-[Legacy Polygon zkEVM] (README_legacy.md)
+[Legacy Polygon zkEVM](README_legacy.md)
