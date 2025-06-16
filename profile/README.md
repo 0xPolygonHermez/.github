@@ -13,18 +13,18 @@
 
 ## History
 
-Initially incubated by **Polygon Labs** from May 2024 to June 2025, Zisk became an independent project on **June 13, 2025**. Its intellectual property, the core team and all its knownledge were transferred to **SilentSig Switzerland GmbH**, a company fully owned by **Jordi Baylina (@jbaylina)**.
+Initially incubated by **Polygon Labs** from May 2024 to June 2025, ZisK became an independent project on **June 13, 2025**. Its intellectual property, the core team and all its knownledge were transferred to **SilentSig Switzerland GmbH**, a company fully owned by **Jordi Baylina ([@jbaylina](https://x.com/jbaylina))**.
 
 ## Development
 
-The team remains dedicated to advancing Zisk as a **community-driven, open-source project** (under MIT/Apache 2.0 licenses), ensuring continuous improvement and maintenance.
+The team remains fully committed to advancing ZisK as a **community-driven, open-source project** (under MIT/Apache 2.0 licenses), ensuring continuous improvement and maintenance.
 
-We invite all **developers and projects** to test, contribute to, and use Zisk. Our goal is to build **the reference zkVM project** in the space.
+We invite all **developers and projects** to test, contribute to, and use ZisK. Our goal is to build **the reference zkVM project** in the space.
 
 To get started, check out the Getting Started Documentation.
 
-Explore the main repository: https://github.com/0xPolygonHermez/zisk  
-Join us on Discord: https://discord.gg/S4hcd8gq  
-Follow us on X: https://x.com/ziskvm  
+Explore the main repository: https://github.com/0xPolygonHermez/zisk.  
+Join us on Discord: https://discord.gg/S4hcd8gq.  
+Follow us on X: https://x.com/ziskvm.  
 
-For the legacy Polygon zkEVM page you can go [here](README_legacy.md)
+For the legacy Polygon zkEVM page you can go [here](README_legacy.md).
