@@ -13,7 +13,7 @@
 
 ## History
 
-Initially incubated by **Polygon Labs** from May 2024 to June 2025, ZisK became an independent project on **June 13, 2025**. Its intellectual property, the core team and all its knownledge were transferred to **SilentSig Switzerland GmbH**, a company fully owned by **Jordi Baylina ([@jbaylina](https://x.com/jbaylina))**.
+Initially incubated by **Polygon Labs** from May 2024 to June 2025, ZisK became an independent project on **June 13, 2025**. Its intellectual property, the core team and all its knowledge were transferred to **SilentSig Switzerland GmbH**, a company fully owned by **Jordi Baylina ([@jbaylina](https://x.com/jbaylina))**.
 
 ## Development
 
