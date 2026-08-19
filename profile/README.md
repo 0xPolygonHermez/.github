@@ -21,7 +21,7 @@ The team remains fully committed to advancing ZisK as a **community-driven, open
 
 We invite all **developers and projects** to test, contribute to, and use ZisK. Our goal is to build **the reference zkVM project** in the space.
 
-To get started, check out the Getting Started [Documentation](https://0xpolygonhermez.github.io/zisk/getting_started/quickstart.html).
+To get started, check out the Getting Started [Documentation](https://0xpolygonhermez.github.io/zisk-docs/developer/getting-started/).
 
 Explore the main repository: https://github.com/0xPolygonHermez/zisk.  
 Join us on Discord: https://discord.gg/bh2b7JurXH.  
